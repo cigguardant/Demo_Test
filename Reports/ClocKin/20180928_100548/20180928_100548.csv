@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+ClocKin,Chrome 69.0.3497.100,,2018-09-28 10:05:50,2018-09-28 10:08:09,2m - 19.393s,FAILED
+,,,,,,
+Test Cases/CLockIn_automate,Chrome 69.0.3497.100,,2018-09-28 10:05:50,2018-09-28 10:08:09,2m - 18.373s,FAILED
+openBrowser,Chrome 69.0.3497.100,,2018-09-28 10:05:51,2018-09-28 10:05:54,3.579s,PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-09-28 10:05:54,2018-09-28 10:08:09,2m - 14.317s,PASSED
+setText,Chrome 69.0.3497.100,,2018-09-28 10:08:09,2018-09-28 10:08:09,0.073s,FAILED

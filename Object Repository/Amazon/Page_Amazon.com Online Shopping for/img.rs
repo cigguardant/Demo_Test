@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>6a4c2008-5450-45a7-900d-6c0079884d8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@alt = 'Shop at Amazon.in' and @src = 'https://images-na.ssl-images-amazon.com/images/G/01/Gateway/Redirect/Amazon_GW_DesktopHeroSD_US-India-Redirect_1500x300._CB470634877_.jpg']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='twotabsearchtextbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Shop at Amazon.in</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images-na.ssl-images-amazon.com/images/G/01/Gateway/Redirect/Amazon_GW_DesktopHeroSD_US-India-Redirect_1500x300._CB470634877_.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>300px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1500px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-hires</name>
+      <type>Main</type>
+      <value>https://images-na.ssl-images-amazon.com/images/G/01/Gateway/Redirect/Amazon_GW_DesktopHeroSD_US-India-Redirect_3000x600._CB470634877_.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Hm5rLvfqpagutQrg9dU47g&quot;)/div[@class=&quot;cropped-image-map-size&quot;]/div[@class=&quot;cropped-image-map-center-alignment&quot;]/span[1]/a[@class=&quot;a-link-normal aok-inline-block&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>

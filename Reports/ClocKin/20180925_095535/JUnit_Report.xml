@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="ClocKin" time="23" tests="1" failures="0" errors="0">
+   <testsuite name="ClocKin" tests="1" failures="0" errors="0" time="23" timestamp="2018-09-25 09:55:38" hostname="E004475 - HW1479.cignitiglobal.com" id="Test Suites/ClocKin">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\e004475\\Katalon Studio\\Demo_automation\\Reports\\ClocKin\\20180925_095535"/>
+         <property name="logFiles" value="C:\\Users\\e004475\\Katalon Studio\\Demo_automation\\Reports\\ClocKin\\20180925_095535\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="E004475 - HW1479.cignitiglobal.com"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.6.0.1"/>
+         <property name="browser" value="Chrome 69.0.3497.100"/>
+         <property name="hostAddress" value="10.62.64.108"/>
+         <property name="sessionId" value="220832102e1b4de5a1d5a349cf9e3fa0"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/CLockIn_automate" classname="Test Cases/CLockIn_automate" status="PASSED">
+         <system-out><![CDATA[2018-09-25 09:55:38 - [TEST_CASE][PASSED] - Test Cases/CLockIn_automate: Test Cases/CLockIn_automate
+
+2018-09-25 09:55:38 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-25 09:55:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-25 09:55:44 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://cigniti.darwinbox.in/attendance' successfully
+
+2018-09-25 09:55:50 - [MESSAGE][PASSED] - Navigate to 'https://cigniti.darwinbox.in/attendance' successfully
+
+2018-09-25 09:55:50 - [TEST_STEP][PASSED] - setText: Text 'e004475@cigniti.com' is set on object 'Object Repository/ClockIn/Page_Sign in to your account/input_loginfmt'
+
+2018-09-25 09:55:52 - [MESSAGE][PASSED] - Text 'e004475@cigniti.com' is set on object 'Object Repository/ClockIn/Page_Sign in to your account/input_loginfmt'
+
+2018-09-25 09:55:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ClockIn/Page_Sign in to your account/nextBtn' is clicked on
+
+2018-09-25 09:55:52 - [MESSAGE][PASSED] - Object: 'Object Repository/ClockIn/Page_Sign in to your account/nextBtn' is clicked on
+
+2018-09-25 09:55:52 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/ClockIn/Page_Sign in to your account/input_passwd'
+
+2018-09-25 09:55:53 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/ClockIn/Page_Sign in to your account/input_passwd'
+
+2018-09-25 09:55:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ClockIn/Page_Sign in to your account/input_idSIButton9' is clicked on
+
+2018-09-25 09:55:54 - [MESSAGE][PASSED] - Object: 'Object Repository/ClockIn/Page_Sign in to your account/input_idSIButton9' is clicked on
+
+2018-09-25 09:55:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ClockIn/Page_Sign in to your account/input_idSIButton9' is clicked on
+
+2018-09-25 09:56:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ClockIn/Page_Sign in to your account/input_idSIButton9' is clicked on
+
+2018-09-25 09:56:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ClockIn/Page_Cigniti Technologies India Ltd/div_clearfix' is clicked on
+
+2018-09-25 09:56:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ClockIn/Page_Cigniti Technologies India Ltd/div_clearfix' is clicked on
+
+2018-09-25 09:56:00 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-25 09:56:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-25 09:55:38 - [TEST_SUITE][PASSED] - ClocKin: Test Cases/CLockIn_automate]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

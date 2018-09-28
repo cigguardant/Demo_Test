@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ClocKin</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-09-28T10:05:48</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>fcb9cedc-5792-43c0-87e4-5b24c08643b4</testSuiteGuid>
+   <testCaseLink>
+      <guid>068c46d6-0f44-41a1-893e-6d80a073b7c1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CLockIn_automate</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8ef222b1-d401-4f37-a3fe-f7fde48cc7fd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ClockIndata</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>8ef222b1-d401-4f37-a3fe-f7fde48cc7fd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>darwinurl</value>
+         <variableId>23478cda-1388-4de4-950a-2382729ac048</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8ef222b1-d401-4f37-a3fe-f7fde48cc7fd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>darwinId</value>
+         <variableId>a0a8a1c7-f796-4fa6-bacf-23009ebad3ea</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CLockIn_automate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16b0e0cb-5b49-46f5-bf34-e8d85e23d880</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ClockIndata')</defaultValue>
+      <description></description>
+      <id>23478cda-1388-4de4-950a-2382729ac048</id>
+      <masked>false</masked>
+      <name>darwinurl</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('ClockIndata')</defaultValue>
+      <description></description>
+      <id>a0a8a1c7-f796-4fa6-bacf-23009ebad3ea</id>
+      <masked>false</masked>
+      <name>darwinId</name>
+   </variable>
+</TestCaseEntity>
